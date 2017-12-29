@@ -1,0 +1,16 @@
+{
+  "name": "surfer",
+  "version": "0.0.0",
+  "private": true,
+  "author": "adam@swell-technologies.com",
+  "description": "Swell's beach bum!",
+  "dependencies": {
+    "aws-sdk": "^2.171.0",
+    "hubot": "^2.19.0",
+    "hubot-slack": "^4.4.0",
+    "moment": "^2.20.1"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}

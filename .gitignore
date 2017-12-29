@@ -1,0 +1,9 @@
+node_modules
+.DS_Store*
+.hubot_history
+
+# WebStorm
+.idea/
+
+# script for testing
+bin/hubot-with-exports
